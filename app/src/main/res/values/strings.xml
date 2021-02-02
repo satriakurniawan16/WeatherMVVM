@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JakartaWeatherApp</string>
+    <string name="tes">Tes</string>
+    <string name="fail_load">Load Data Failed</string>
+    <string name="no_location_detected">Lokasi tidak terdeteksi</string>
+    <string name="permission_rationale">Rational</string>
+    <string name="permission_denied_explanation">Ditolak</string>
+    <string name="settings">Pengaturan</string>
+    <string name="data_kosong">Data Kosong</string>
+</resources>
